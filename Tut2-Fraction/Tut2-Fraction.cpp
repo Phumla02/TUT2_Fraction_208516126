@@ -5,5 +5,6 @@ class Fraction
 
 {
 public:
+	void Add();
 
 };
